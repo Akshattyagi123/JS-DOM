@@ -21,14 +21,15 @@ To get started, clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/dom-concepts.git
-List of Concepts
+
+##List of Concepts
 Manipulating Elements: Examples showcasing how to manipulate HTML elements using JavaScript.
 Event Handling: Code snippets demonstrating event handling in the DOM.
 DOM Traversal: Illustrations of various methods for traversing the DOM tree.
 Dynamic Content: Examples of dynamically updating and modifying content on the page.
 Feel free to explore each concept folder for detailed code explanations and usage.
 
-How to Use
+##How to Use
 Each concept is contained within its own folder. Open the respective HTML file in a web browser to see the concept in action. Additionally, you can review the JavaScript code in each file to understand the implementation details.
 
 To run the examples locally:
@@ -44,7 +45,7 @@ Create a new branch for your feature or bug fix.
 Make your changes and submit a pull request.
 We welcome contributions and appreciate your help in making this repository a valuable resource for the community.
 
-License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
